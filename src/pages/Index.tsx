@@ -127,15 +127,15 @@ const Index = () => {
                 Мы не просто <span className="text-orange">агентство</span>
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                Мы команда креативных маркетологов, которые превращают идеи в результат. За 5 лет мы помогли более чем 200 компаниям увеличить продажи и стать лидерами в своих нишах.
+                Мы команда креативных маркетологов, которые превращают идеи в результат. За 8 лет мы помогли более чем 30 брендам увеличить продажи и стать лидерами в своих нишах.
               </p>
               <div className="grid grid-cols-3 gap-4 text-center">
                 <div>
-                  <div className="text-3xl font-montserrat font-bold text-orange">200+</div>
-                  <div className="text-sm text-gray-600">Проектов</div>
+                  <div className="text-3xl font-montserrat font-bold text-orange">30+</div>
+                  <div className="text-sm text-gray-600">Брендов</div>
                 </div>
                 <div>
-                  <div className="text-3xl font-montserrat font-bold text-purple">5</div>
+                  <div className="text-3xl font-montserrat font-bold text-purple">8</div>
                   <div className="text-sm text-gray-600">Лет опыта</div>
                 </div>
                 <div>
